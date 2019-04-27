@@ -33,17 +33,17 @@ VanillaRat is an advanced remote administration tool coded in C#. VanillaRat use
 3. A DNS address is required, you may get one for free at https://no-ip.com/
 4. Run the VanillaRat.exe and have fun! 
 
-Note: If you accidentally run VanillaRatStub.exe, you can end the process by opening task manager and killing VanillaRatStub.
+Note: If you accidentally run VanillaStub.exe, you can end the process by opening task manager and killing VanillaStub.
 
 **Debug:**
 
 1. Open the solution file
 2. Ensure dnlib is installed on the VanillaRat project
-3. Ensure Costura.Fody, and Telepathy is installed on both the VanillaRat project and the VanillaRatStub project
-4. Build the VanillaRatStub project.
-5. Build the VanillaRat project, open the bin of the VanillaRatStub project, and drag the VanillaRatStub.exe file into the bin of the VanillaRat project.
+3. Ensure Costura.Fody, and Telepathy is installed on both the VanillaRat project and the VanillaStub project
+4. Build the VanillaStub project.
+5. Build the VanillaRat project, open the bin of the VanillaStub project, and drag the VanillaStub.exe file into the bin of the VanillaRat project.
 6. Run VanillaRat.exe and have fun! 
-7. If any modification is made to VanillaRat or VanillaRatStub steps 4-5 need to be repeated. 
+7. If any modification is made to VanillaRat or VanillaStub steps 4-5 need to be repeated. 
 
 ### Using Vanilla Rat:
 
